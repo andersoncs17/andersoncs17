@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Anderson, I'm 19 years old, I live in Brazil, I study at IFES Campus São Mateus, and I'm starting my studies in the field of programming.
+Hi! I'm Anderson Sousa, a Computer Science student at UFES (Federal University of Espírito Santo).
+I have basic experience with Python, C, C++ and Prolog, and a strong motivation to keep learning and improving my skills in programming and technology.
+I'm always curious, open to new challenges, and eager to grow as a developer.
 
