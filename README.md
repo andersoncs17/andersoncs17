@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I'm Anderson Sousa, a Computer Science student at UFES (Federal University of Espírito Santo).
-I have basic experience with Python, C, C++ and Figma, and a strong motivation to keep learning and improving my skills in programming and technology.
-I'm always curious, open to new challenges, and eager to grow as a developer.
+I am currently a fifth-semester Computer Science student at UFES and hold a technical diploma in Electrotechnics (integrated with high school education) from IFES. I have knowledge of basic web development, Python, C, and Figma, and my English proficiency is at the A2 level. In 2025–2026, I served as a Digital Marketing Associate at Adapti Soluções Web, the UFES Computer Science Junior Enterprise.
 
